@@ -1,6 +1,16 @@
-### Hi there 👋
+- 🔭 Merhaba Ben Sefa Erkan, Mobil uygulama ve Oyun programlama konuları üzerine çalışma hedefiyle Harran Üniversitesi Bilgisayar Mühendisliği bölümünde okuyorum.
+
+- 🌱 Mobil uygulama alanında kendimi geliştirmekteyim. Öğrenmeye açık ve yeni teknolojileri yakından takip ediyorum.
+
+- ⚡ Şuan aktif olarak Flutter öğreniyorum ve bilmediğim konuları araştırıp öğrenmek ve uygulayabilmek şu andaki en büyük tutkum.
+
+
+
+
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sefaerkan/)
+
+
 
 <!--
 **sefaerkan/sefaerkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
