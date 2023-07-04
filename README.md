@@ -1,8 +1,10 @@
-- 🔭 Merhaba Ben Sefa Erkan, Mobil uygulama ve Oyun programlama konuları üzerine çalışma hedefiyle Harran Üniversitesi Bilgisayar Mühendisliği bölümünde okuyorum.
+- 🔭 I’m currently student at computer enginnering
 
-- 🌱 Mobil uygulama alanında kendimi geliştirmekteyim. Öğrenmeye açık ve yeni teknolojileri yakından takip ediyorum.
+- 🌱 I’m currently learning Kotlin, Dart and Java
 
-- ⚡ Şuan aktif olarak Kotlin ve Flutter öğreniyorum ve bilmediğim konuları araştırıp öğrenmek ve uygulayabilmek şu andaki en büyük tutkum.
+- ⚡ I always aim for the most functional and applicable codes
+
+- 💻 I’m looking to collaborate on interesting projects and startups
 
 #### Connect with me:
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sefaerkan/)
