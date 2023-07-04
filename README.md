@@ -2,7 +2,7 @@
 
 - 🌱 Mobil uygulama alanında kendimi geliştirmekteyim. Öğrenmeye açık ve yeni teknolojileri yakından takip ediyorum.
 
-- ⚡ Şuan aktif olarak Flutter öğreniyorum ve bilmediğim konuları araştırıp öğrenmek ve uygulayabilmek şu andaki en büyük tutkum.
+- ⚡ Şuan aktif olarak Kotlin ve Flutter öğreniyorum ve bilmediğim konuları araştırıp öğrenmek ve uygulayabilmek şu andaki en büyük tutkum.
 
 
 
