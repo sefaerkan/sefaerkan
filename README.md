@@ -1,8 +1,8 @@
 <img align="center" height=200 alt="ahmet" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
 
-- 🔭 I’m currently student at computer enginnering
+- 🔭 I’m computer enginner
 
-- 🌱 I’m currently learning Kotlin, Dart and Java
+- 🌱 I’m currently learning Data Science and Machine Learning
 
 - ⚡ I always aim for the most functional and applicable codes
 
