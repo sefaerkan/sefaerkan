@@ -2,7 +2,7 @@
 
 - 🔭 I’m a computer engineer
 
-- 🌱 I’m currently learning Data Science and Machine Learning
+- 🌱 I’m currently learning AI Sowftware Develop
 
 - ⚡ I always aim to write the most functional and applicable code
 
